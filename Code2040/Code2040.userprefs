@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Code2040/Program.cs">
+    <Files>
+      <File FileName="Code2040/Program.cs" Line="4" Column="4" />
+      <File FileName="Code2040/ReverseString.cs" Line="5" Column="5" />
+      <File FileName="../../../../Downloads/8d9182c2ef4de8e6350e89f94cbebd15_20debabcb2637104c495785ee898b465.cs" Line="1" Column="1" />
+      <File FileName="../../../../Downloads/e422cd2f33cac24244cb94e180c48957_20debabcb2637104c495785ee898b465.cs" Line="17" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

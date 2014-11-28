@@ -19,32 +19,21 @@ namespace Code2040
 		//Sends the request to gether the token and value from the website
 		static void Main (string[] args)
 		{
-
+			Console.WriteLine ("hello");
 			Task.Run (async () => {
+
+				//helper function is the post function for the webrequest
 				var helper = new Helper ();
 				Session.Instance.SetToken (JsonConvert.DeserializeObject<Response> (
-					await helper.Post ("http://challenge.code2040.org/api/register", 
-						JsonConvert.SerializeObject (new { email = "kehlinswain@yahoo.com", 
-									github = "https://github.com/kswain1/apichallenge" }))).Result);
+					await helper.Post ("http://challenge.code2040.org/api/getstring", 
+						JsonConvert.SerializeObject (new { token = "Y6C15DVN99" 
+						}))).Result);
 
-				//Reads out the line to verify if the token was printed out	
-				Console.WriteLine ("my token Value");
-				Console.WriteLine (Session.Instance.Token);   
-				Console.ReadLine ();
 			});
-
-			Console.ReadKey (true);
+			Console.WriteLine (Session.Instance.Token);
 			ReverseString reverseString = new ReverseString ();
-			sendStringBack SendStringBack = new sendStringBack ();
-			string Data1 = alorgorithmForReversingString.reverser (Session.Instance.Token);
-	
-			//sendStringBack SendStringBack = new sendStringBack (); 
-		
-
-			//Console.WriteLine (reverseString);
-			//Console.WriteLine (alorgorithmForReversingString.reverser (Session.Instance.Token));
-			//sendStringBack SendStringBack = new sendStringBack ();
-			//Console.WriteLine (SendStringBack);
+			Console.WriteLine (reverseString);
+			Console.WriteLine (alorgorithmForReversingString.reverser (Session.Instance.Token));
 		}
 	}
 
@@ -108,13 +97,11 @@ namespace Code2040
 			var reader = new StreamReader (stream);
 			var result = await reader.ReadToEndAsync ();
 
-			Console.WriteLine (result);
+
 			reader.Close ();
 			stream.Close ();
 			response.Close ();
-			//Console.WriteLine (result);
 			return result;
-
 		}
 	}
 }

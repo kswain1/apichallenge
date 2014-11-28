@@ -6,3 +6,11 @@
 /Users/kehlinswain/Projects/Code2040/Code2040/bin/Debug/Newtonsoft.Json.dll
 /Users/kehlinswain/Projects/Code2040/Code2040/bin/Debug/System.Net.Http.Formatting.dll
 /Users/kehlinswain/Projects/Code2040/Code2040/bin/Debug/System.Web.Http.dll
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/obj/x86/Debug/Code2040.exe
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/obj/x86/Debug/Code2040.exe.mdb
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/bin/Debug/Newtonsoft.Json.dll
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/bin/Debug/System.Net.Http.Formatting.dll
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/bin/Debug/System.Web.Http.dll
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/bin/Debug/Code2040.exe.mdb
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Code2040/Code2040/bin/Debug/Code2040.exe

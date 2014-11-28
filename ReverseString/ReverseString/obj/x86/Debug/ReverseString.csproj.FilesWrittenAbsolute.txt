@@ -1,0 +1,6 @@
+/Users/kehlinswain/Desktop/Csharp/apichallenge/ReverseString/ReverseString/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kehlinswain/Desktop/Csharp/apichallenge/ReverseString/ReverseString/bin/Debug/ReverseString.exe.mdb
+/Users/kehlinswain/Desktop/Csharp/apichallenge/ReverseString/ReverseString/bin/Debug/ReverseString.exe
+/Users/kehlinswain/Desktop/Csharp/apichallenge/ReverseString/ReverseString/obj/x86/Debug/ReverseString.exe
+/Users/kehlinswain/Desktop/Csharp/apichallenge/ReverseString/ReverseString/obj/x86/Debug/ReverseString.exe.mdb
+/Users/kehlinswain/Desktop/Csharp/apichallenge/ReverseString/ReverseString/bin/Debug/Newtonsoft.Json.dll
