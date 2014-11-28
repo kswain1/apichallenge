@@ -1,0 +1,6 @@
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Stage2/Stage2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Stage2/Stage2/bin/Debug/Newtonsoft.Json.dll
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Stage2/Stage2/bin/Debug/Stage2.exe.mdb
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Stage2/Stage2/bin/Debug/Stage2.exe
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Stage2/Stage2/obj/x86/Debug/Stage2.exe
+/Users/kehlinswain/Desktop/Csharp/apichallenge/Stage2/Stage2/obj/x86/Debug/Stage2.exe.mdb

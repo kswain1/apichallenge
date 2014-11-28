@@ -16,7 +16,7 @@ namespace Code2040
 
 		public sendStringBack ()
 		{
-			Console.WriteLine ("Wasup");
+		
 			//Send the validated string back to the webpost 
 			Task.Run (async () => {
 
@@ -30,10 +30,8 @@ namespace Code2040
 				Console.WriteLine ("This is the Validation post");
 				Console.WriteLine (Session.Instance.Token);
 
-				//Delete the next line 
-				//Console.WriteLine (alorgorithmForReversingString.reverser (Session.Instance.Token));
 			});
-			System.Threading.Thread.Sleep (6000);
+			System.Threading.Thread.Sleep (3000);
 		}
 	}
 }

@@ -108,7 +108,6 @@ namespace Code2040
 			var reader = new StreamReader (stream);
 			var result = await reader.ReadToEndAsync ();
 
-			Console.WriteLine (result);
 			reader.Close ();
 			stream.Close ();
 			response.Close ();

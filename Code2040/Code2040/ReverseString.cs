@@ -58,9 +58,9 @@ namespace Code2040
 			string results = Session.Instance.Token;
 			Console.WriteLine (results);
 
-
+			//delete me 
 			/*Results.sendstringback (Session.Instance.Token);*/
-			Console.WriteLine ("Please be last");
+			//Console.WriteLine ("Please be last");
 			//Console.WriteLine (alorgorithmForReversingString.reverser (Session.Instance.Token));
 		}
 	}
